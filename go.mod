@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/jasonlvhit/gocron v0.0.1
-	go.uber.org/zap v1.25.0
+	go.uber.org/zap v1.27.0
 )
 
 require (
